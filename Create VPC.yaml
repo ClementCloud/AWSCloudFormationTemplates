@@ -1,6 +1,7 @@
 AWSTemplateFormatVersion: 2010-09-09
 Description: Deploy a VPC
 
+
 Resources:
 VPC:
 Type: AWS::EC2::VPC
